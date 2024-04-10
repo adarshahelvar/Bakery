@@ -51,7 +51,7 @@ class Contact extends Component{
 												<div className="icon-bx-xs border-1 text-primary"> <Link to={''} className="icon-cell"><i className="ti-email"></i></Link> </div>
 												<div className="icon-content">
 													<h6 className="text-uppercase m-tb0 dlab-tilte">Email:</h6>
-													<p>info@example.com</p>
+													<p>adarshadi1997@gmail.com</p>
 												</div>
 											</li>
 											<li className="icon-bx-wraper left">

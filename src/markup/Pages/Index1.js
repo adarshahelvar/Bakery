@@ -94,7 +94,7 @@ class Index1 extends Component{
 												<img src={require('./../../images/cake1.jpg')} alt="" />
 											</div>
 											<h3 className="text-primary">It’s a party and you’re invited</h3>
-											<p className="main-text">Join DexignZone <strong>Bakery</strong>™ to earn Gold level benefits like free Cakes and food, get free refills, pay and order with your phone, and more.</p>
+											<p className="main-text">Join adarshadi1997@gmail.com <strong>Bakery</strong>™ to earn Gold level benefits like free Cakes and food, get free refills, pay and order with your phone, and more.</p>
 											<p>Exclusive deals on Cakes, delivered straight to your inbox <Link to={''}>Join Now</Link></p>
 										</div>
 									</div>
