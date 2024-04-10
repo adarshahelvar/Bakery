@@ -2913,6 +2913,8 @@ blockquote cite{
 .logo-footer img {
     height: auto;
 	width: 100%;
+    border-radius: 50%;
+    opacity: 0.9;
 }
 .logo-header span,
 .logo-footer span {
